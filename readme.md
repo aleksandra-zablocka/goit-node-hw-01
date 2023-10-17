@@ -1,10 +1,10 @@
 LIST
 node index.js --action list
-https://ibb.co/tJn0Mbk
+https://ibb.co/dKK2VFT
 
 GET
 node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
-https://ibb.co/Vjkz0Fx
+https://ibb.co/gzrJHwz
 
 ADD
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
