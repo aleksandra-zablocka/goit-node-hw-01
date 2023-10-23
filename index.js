@@ -28,7 +28,7 @@ async function invokeAction({ action, id, name, email, phone }) {
         console.log("Your contact:");
         console.table([contact]);
       } else {
-        ("Contact not found");
+        console.log("Contact not found");
       }
       break;
 
