@@ -1,13 +1,11 @@
 LIST
-https://ibb.co/dKK2VFT
+![Alt text](https://i.ibb.co/4NNTXzq/5-1.jpg "LIST")
 
 GET
-https://ibb.co/gzrJHwz
+![Alt text](https://i.ibb.co/WgHfqFg/5-2.jpg "GET")
 
 ADD
-https://ibb.co/0QvjpFS
+![Alt text](https://i.ibb.co/qxVMLWf/5-3.jpg "ADD")
 
 REMOVE
-https://ibb.co/xjygMPz
-
-![Alt text](https://i.ibb.co/WgHfqFg/5-2.jpg "Foto1")
+![Alt text](https://i.ibb.co/7WHpG8r/5-4.jpg "REMOVE")
