@@ -1,6 +1,7 @@
 # Node CLI Contacts App
 
-This repository contains a simple Node.js CLI application for managing contacts. Follow the steps below to set up and run the application.
+This repository contains a simple Node.js CLI application for managing contacts.
+Follow the steps below to set up and run the application.
 
 ## Commands - examples
 
